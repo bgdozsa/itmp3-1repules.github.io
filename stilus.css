@@ -68,13 +68,31 @@ span{
   padding: 20px 45px;
 }
 
-.tarsasag {
+.flex-container {
+  display: flex;
+}
+
+.flex-container>div {
   border: #333 1px solid;
-  color: white;
   width: 200px;
-  height: 80px;
+  height: 200px;
   margin: 30px 20px;
-  padding: 120px 5px 0px 5px;
-  background-size: 200px;
+  padding: 5px 5px 5px 5px;
+  background-size: 30px;
   background-repeat: no-repeat;
+  background-position: 10px 10px;
+}
+.flex-container>div>h4{
+  padding-left: 40px;
+  margin-top: 5px;
+}
+
+#hely1{
+  background-image: url(kepek/cup-arany.bmp);
+}
+#hely2{
+  background-image: url(kepek/cup-ezust.bmp);
+}
+#hely3{
+  background-image: url(kepek/cup-bronz.bmp);
 }
