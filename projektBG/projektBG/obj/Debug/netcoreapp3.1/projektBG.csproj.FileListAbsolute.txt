@@ -1,0 +1,13 @@
+C:\C-Munka\Projektmunka\projektBG\projektBG\bin\Debug\netcoreapp3.1\projektBG.exe
+C:\C-Munka\Projektmunka\projektBG\projektBG\bin\Debug\netcoreapp3.1\projektBG.deps.json
+C:\C-Munka\Projektmunka\projektBG\projektBG\bin\Debug\netcoreapp3.1\projektBG.runtimeconfig.json
+C:\C-Munka\Projektmunka\projektBG\projektBG\bin\Debug\netcoreapp3.1\projektBG.runtimeconfig.dev.json
+C:\C-Munka\Projektmunka\projektBG\projektBG\bin\Debug\netcoreapp3.1\projektBG.dll
+C:\C-Munka\Projektmunka\projektBG\projektBG\bin\Debug\netcoreapp3.1\projektBG.pdb
+C:\C-Munka\Projektmunka\projektBG\projektBG\obj\Debug\netcoreapp3.1\projektBG.csprojAssemblyReference.cache
+C:\C-Munka\Projektmunka\projektBG\projektBG\obj\Debug\netcoreapp3.1\projektBG.AssemblyInfoInputs.cache
+C:\C-Munka\Projektmunka\projektBG\projektBG\obj\Debug\netcoreapp3.1\projektBG.AssemblyInfo.cs
+C:\C-Munka\Projektmunka\projektBG\projektBG\obj\Debug\netcoreapp3.1\projektBG.csproj.CoreCompileInputs.cache
+C:\C-Munka\Projektmunka\projektBG\projektBG\obj\Debug\netcoreapp3.1\projektBG.dll
+C:\C-Munka\Projektmunka\projektBG\projektBG\obj\Debug\netcoreapp3.1\projektBG.pdb
+C:\C-Munka\Projektmunka\projektBG\projektBG\obj\Debug\netcoreapp3.1\projektBG.genruntimeconfig.cache
