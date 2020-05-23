@@ -1,0 +1,18 @@
+Alaska Airlines Inc.	SEA
+Allegiant Air	SFB
+American Airlines Inc.	DFW
+Delta Air Lines Inc.	ATL
+Endeavor Air Inc.	ATL
+Envoy Air	ORD
+ExpressJet Airlines Inc.	IAH
+ExpressJet Airlines LLC	IAH
+Frontier Airlines Inc.	DEN
+Hawaiian Airlines Inc.	HNL
+JetBlue Airways	BOS
+Mesa Airlines Inc.	DFW
+PSA Airlines Inc.	CLT
+Republic Airline	LGA
+SkyWest Airlines Inc.	ORD
+Southwest Airlines Co.	MDW
+Spirit Air Lines	FLL
+United Air Lines Inc.	ORD

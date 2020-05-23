@@ -1,0 +1,18 @@
+Alaska Airlines Inc.	77
+Allegiant Air	126
+American Airlines Inc.	117
+Delta Air Lines Inc.	154
+Endeavor Air Inc.	127
+Envoy Air	169
+ExpressJet Airlines Inc.	111
+ExpressJet Airlines LLC	120
+Frontier Airlines Inc.	106
+Hawaiian Airlines Inc.	19
+JetBlue Airways	70
+Mesa Airlines Inc.	130
+PSA Airlines Inc.	104
+Republic Airline	120
+SkyWest Airlines Inc.	277
+Southwest Airlines Co.	90
+Spirit Air Lines	52
+United Air Lines Inc.	122
