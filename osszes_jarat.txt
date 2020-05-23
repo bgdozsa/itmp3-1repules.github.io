@@ -1,0 +1,18 @@
+Alaska Airlines Inc.	284697
+Allegiant Air	115030
+American Airlines Inc.	1018437
+Delta Air Lines Inc.	1073663
+Endeavor Air Inc.	281625
+Envoy Air	351701
+ExpressJet Airlines Inc.	24389
+ExpressJet Airlines LLC	119067
+Frontier Airlines Inc.	149912
+Hawaiian Airlines Inc.	90637
+JetBlue Airways	321204
+Mesa Airlines Inc.	244057
+PSA Airlines Inc.	313346
+Republic Airline	360077
+SkyWest Airlines Inc.	909735
+Southwest Airlines Co.	1463985
+Spirit Air Lines	224464
+United Air Lines Inc.	673640
