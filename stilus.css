@@ -71,13 +71,11 @@ span{
 .flex-container {
   display: flex;
 }
-
 .flex-container>div {
   border: #333 1px solid;
-  width: 200px;
-  height: 200px;
+  width: 230px;
   margin: 30px 20px;
-  padding: 5px 5px 5px 5px;
+  padding: 5px;
   background-size: 30px;
   background-repeat: no-repeat;
   background-position: 10px 10px;
@@ -85,6 +83,33 @@ span{
 .flex-container>div>h4{
   padding-left: 40px;
   margin-top: 5px;
+  font-size: 18px;
+}
+
+.tarsasag{
+  display: flex;
+}
+#logo{
+  width: 300px;
+  height: 300px;
+  border: #333 1px solid;
+}
+#szam{
+  border: none;
+  padding-left: 20px;
+}
+
+#nagy{
+  text-align: left;
+}
+
+dt{
+  font-weight: bold;
+}
+dd{
+  margin-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
 }
 
 #hely1{
@@ -95,4 +120,9 @@ span{
 }
 #hely3{
   background-image: url(kepek/cup-bronz.bmp);
+}
+
+li{
+  font-size: 20px;
+  list-style-type: circle;
 }

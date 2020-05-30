@@ -5,18 +5,18 @@
     <meta name="author" content="3-1 ITMP Klub">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="stilus.css">
-    <title>ITMP Klub3 csapata</title>
+    <title>ITMP3 csapat</title>
+    <script src="keszit.js"></script>
 </head>
-<body>
+<body onload="adatok()">
     <header>
-        <h3>Szilágyi Zoltánné Bankó Ilona</h1>
+        <h3 id="nev"></h1>
     </header>
     
 
     <section>
-        <p><strong>Munkahely:</strong> VSzc Petőfi Sándor Gimnáziuma, 
-            Gépészeti Szakgimnáziuma és Kollégiuma, Aszód</p>
-        <p><strong>Foglalkozása:</strong> informatika szakos tanár </p>
+        <p><strong>Munkahely:</strong><span id="mh"></span></p>
+        <p><strong>Foglalkozása:</strong> <span id="fogl"></span> </p>
     </section>
 
     <footer>

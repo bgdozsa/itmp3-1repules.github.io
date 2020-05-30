@@ -1,0 +1,19 @@
+﻿tarsasag	osszesJarat	latogatottRepterek	toroltArany	atlagosKeses	legforgalmasabbRepter
+Alaska Airlines Inc.	284697	77	1%	51	SEA
+Allegiant Air	115030	126	1%	71	SFB
+American Airlines Inc.	1018437	117	2%	68	DFW
+Delta Air Lines Inc.	1073663	154	0%	68	ATL
+Endeavor Air Inc.	281625	127	1%	79	ATL
+Envoy Air	351701	169	3%	65	ORD
+ExpressJet Airlines Inc.	24389	111	4%	80	IAH
+ExpressJet Airlines LLC	119067	120	4%	86	IAH
+Frontier Airlines Inc.	149912	106	2%	68	DEN
+Hawaiian Airlines Inc.	90637	19	0%	40	HNL
+JetBlue Airways	321204	70	1%	79	BOS
+Mesa Airlines Inc.	244057	130	3%	81	DFW
+PSA Airlines Inc.	313346	104	2%	70	CLT
+Republic Airline	360077	120	2%	69	LGA
+SkyWest Airlines Inc.	909735	277	2%	84	ORD
+Southwest Airlines Co.	1463985	90	2%	52	MDW
+Spirit Air Lines	224464	52	2%	69	FLL
+United Air Lines Inc.	673640	122	1%	75	ORD
